@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Dialema
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dialema\ here.\r\n\r\n\ @author\ (Virgil)\r\n\ @version\ (v2)\r\n\ v1\ added\ Scoreing\ Method\ \r\n\ v2\ added\ Array\ for\ Com\ to\ decide\ what\ to\ do\r\n
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dialema\ here.\r\n\r\n\ @author\ (Virgil)\r\n\ @version\ (v2)\r\n\ 7/6/20\ v1\ added\ Scoring\ Method\ .\r\n\ 14/6/20\ v2\ added\ Array\ for\ Com\ to\ decide\ what\ to\ do.\r\n\ 17/6/20\ Testing\ \ github.\r\n\ 29/6/20\ Starting\ on\ computers\ method\ to\ decide\ it's\ move.\r\n\ 20/7/20\ Made\ Progress\ on\ Method.\r\n\ 22/7/20\ Currently\ computer\ changes\ to\ "c"\ on\ round\ 3\ (works\ but\ not\ as\ i\ want\ it\ to).\r\n
 comment1.params=
 comment1.target=Dialema()
 comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dialema\r\n
